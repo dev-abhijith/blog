@@ -1,4 +1,4 @@
 baseURL = 'https://www.topperlab.com/'
 languageCode = 'en-us'
-title = 'topperlab blog'
+title = 'topperlab'
 theme = 'hugo-PaperMod'
