@@ -1,4 +1,4 @@
-baseURL = 'http://dev-abhijith.github.io/blog/'
+baseURL = 'https://www.topperlab.com/'
 languageCode = 'en-us'
 title = 'topperlab blog'
 theme = 'hugo-PaperMod'
