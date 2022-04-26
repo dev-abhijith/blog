@@ -9,22 +9,22 @@
       <link>https://www.topperlab.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 25 Apr 2022 14:06:14 +0530</lastBuildDate><atom:link href="https://www.topperlab.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://www.topperlab.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Firstpost</title>
-      <link>https://www.topperlab.com/posts/firstpost/</link>
-      <pubDate>Mon, 25 Apr 2022 14:06:14 +0530</pubDate>
+      <title>Bengal</title>
+      <link>https://www.topperlab.com/posts/bengal/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://www.topperlab.com/posts/firstpost/</guid>
-      <description>hello</description>
+      <guid>https://www.topperlab.com/posts/bengal/</guid>
+      <description>Desc Text.</description>
     </item>
     
     <item>
-      <title>My 2nd post</title>
-      <link>https://www.topperlab.com/posts/secondpost/</link>
+      <title>British</title>
+      <link>https://www.topperlab.com/posts/british/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://www.topperlab.com/posts/secondpost/</guid>
+      <guid>https://www.topperlab.com/posts/british/</guid>
       <description>Desc Text.</description>
     </item>
     

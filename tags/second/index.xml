@@ -11,11 +11,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://www.topperlab.com/tags/second/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My 2nd post</title>
-      <link>https://www.topperlab.com/posts/secondpost/</link>
+      <title>Bengal</title>
+      <link>https://www.topperlab.com/posts/bengal/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://www.topperlab.com/posts/secondpost/</guid>
+      <guid>https://www.topperlab.com/posts/bengal/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>British</title>
+      <link>https://www.topperlab.com/posts/british/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://www.topperlab.com/posts/british/</guid>
       <description>Desc Text.</description>
     </item>
     
