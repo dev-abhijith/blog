@@ -46,8 +46,6 @@ tocopen = false
   apple_touch_icon = "<link / abs url>"
   safari_pinned_tab = "<link / abs url>"
 
-  [params.label]
-  text = "topperlab"
 
   [params.profileMode]
   enabled = false
