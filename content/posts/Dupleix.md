@@ -1,0 +1,1 @@
+He formulated the strategy of taking sides with the princes in internal feuds to gain their trust and grants

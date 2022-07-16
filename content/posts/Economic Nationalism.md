@@ -1,0 +1,1 @@
+[[Dadabai Naoroji]] the 'grand old man of India' in his book *Poverty and Unbritish rule in India* wrote about the drain of wealth by the [[British]] following Charter act of 1813, he is also know as 'high priest' of *Drain theory*

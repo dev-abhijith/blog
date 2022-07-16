@@ -1,0 +1,2 @@
+ Took the reponsibility of drafting the constitution during the recess of July [[1947]] - Sept 1948. It was formed on 29 Aug 1947 under the chairmanship of [[BR Ambedkar]] with two distinguished jurist and lawyers, Alladi Krishnaramayyar and KM Munshi.
+ 

@@ -1,0 +1,6 @@
+- Annexation of Punjab after second Anglo [[Sikh]] war in 1849
+- [[Doctrine of Lapse]]
+- [[Charter Act of 1853]] (VaLaM)
+- [[Wood's dispatch]] 1854 (Floor) leading to opening of anglo vernacular institutions
+- Laying of first railway line between [[Bombay]] and Thane in 1853 (Valam)
+- Introduction of First telegraph and postal reforms aimed at connecting [[Calcutta]] to [[Bombay]], [[Madras]] and Peshawar

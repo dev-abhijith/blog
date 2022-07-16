@@ -1,0 +1,1 @@
+The philosophy for constitution making was embodied early in the objective resolution by [[JL Nehru]] in the first session of the [[Constituent Assembly]] in 13 Dec 1946 and adopted after deliberation in 22 Jan 1947

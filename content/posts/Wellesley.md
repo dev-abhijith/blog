@@ -1,0 +1,5 @@
+- Adoption of [[Subsidiary Alliance System]] in 1789, the first subsidiary alliance with Nizam of Hyderabad
+- The [[Fourth Mysore war]] 1799(KeBaB) resulted in [[British]] conquering [[Mysore]]
+- Conclusion of [[Treaty of Bassein]] in1802
+- [[Second Anglo Maratha War]]
+- Taking over administration of tanjore, [[Surat]], Carnatic

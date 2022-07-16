@@ -1,0 +1,3 @@
+Vellore mutiny 1806 is the first instance of a large scale mutiny by Indian sepoys against [[British]].
+
+The main reasons were religious, Hindu soldiers were prohibited from wearing religious marking and Muslim soldiers were required to shave their beards, the changes were to improve "soldierly appearance". And everyone were required to wear a round hat which were common at the time with Christian converts, hence this offended both religions.

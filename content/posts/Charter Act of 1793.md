@@ -1,0 +1,1 @@
+The act made payment of Home government members to be made strictly out of Indian revenues, it was severely criticised by nationalists who accused [[British]] of draining the wealth of India

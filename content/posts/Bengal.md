@@ -63,4 +63,4 @@ The combined forces of Mir Qasim, Shuja-ud-daula, [[Shah Alam II]] fought the Br
 
 The company also acquired Kara and [[Allahabad]] and kept the Mughal as a pensioner (proxy so the British crown is unaware of developments and does not interfere and for [[Warren Hastings]] - **Ring of fence policy**) for 6 years until the Marathas escorted him to Delhi.
 
-[[Battle of Buxar]]also led to [[Dual Administration of Bengal]] which cause massive _drain of wealth from India_
+[[Battle of Buxar]] also led to [[Dual Administration of Bengal]] which cause massive _drain of wealth from India_

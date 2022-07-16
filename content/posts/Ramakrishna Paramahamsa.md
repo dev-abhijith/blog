@@ -1,0 +1,1 @@
+Ramakrishna was a priest at Dakshineswara Temple who beleived '*service of man is the service of god*'
